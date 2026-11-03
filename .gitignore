@@ -1,0 +1,6 @@
+.DS_Store
+.build/
+build/
+deploy-hosting/
+*.dmg
+*.zip
